@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for DevPortfolio', 'description': 'Primary container for DevPortfolio implementation: A simple, modern website designed for web developers to showcase their portfolio, skills, and contact information. The site provides a clean layout with sections for an introduction, featured projects, skills, and a contact form.', 'framework': 'nextjs', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
